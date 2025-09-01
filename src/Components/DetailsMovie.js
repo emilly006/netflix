@@ -3,7 +3,7 @@ import "./DetailsMovie.css"
 import { FaStar } from "react-icons/fa6";
 import { Md18UpRating } from "react-icons/md"
 import { BsHandThumbsUpFill } from "react-icons/bs";
-import peaklogo from "../Imagens/logopeak.png";
+import peaklogo from "../Imagens/resgaste.text.jpg";
 
 function DetailsMovie(){
 
@@ -14,9 +14,9 @@ function DetailsMovie(){
             
                                     <div className="description-details">
                                         <BsHandThumbsUpFill style={{color:"white",height:'25px',width:"25px"}}/>
-                                        <strong>2017</strong>
+                                        <strong>2023</strong>
                                         <Md18UpRating style={{color:"white",height:'40px',width:"40px"}}/>
-                                        <strong>6 Temporadas</strong>
+                                        <strong> filme 2</strong>
             
                                         <div className="star">
                                             <FaStar style={{color:"yellow",height:'30px',width:"30px"}}/>
@@ -29,7 +29,7 @@ function DetailsMovie(){
                                     </div>
                                     
                                     <div class='text-details' style={{lineHeight:"1.4"}}>
-                                        <strong>Uma notória gangue da inglaterra de 1919 é liderada pelo cruel tommy shelby, um criminoso disposto a subir na vida a qualquer preço.</strong>
+                                        <strong>Um mercenário retorna à ação para salvar a família de um criminoso presa em uma prisão de alta segurança, enfrentando missões quase impossíveis..</strong>
                                     </div>
         </>
 

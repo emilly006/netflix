@@ -5,15 +5,15 @@ function DetailsText(){
        <p style={{lineHeight:"1.4"}}>
                             <div>
                                 <strong class="title-details">Estrelando:</strong>
-                                <strong> Cillian Murphy, Paul Anderson, Sophie Rundle</strong>
+                                <strong>  Chris Hemsworth, Sam Hargrave, Joe Russo, Anthony Russo, Mike Larocca, Patrick Newall </strong>
                             </div>
                             <div>
                                 <strong class="title-details">Gêneros:</strong>
-                                <strong> Séries dramáticas, Britânicos, Obras de época</strong>
+                                <strong> Ação/Thriller</strong>
                             </div>
                             <div>
                                 <strong class="title-details">cenas e momentos:</strong>
-                                <strong> Violento</strong>
+                                <strong> Violentos</strong>
                             </div>
         </p>
         </>

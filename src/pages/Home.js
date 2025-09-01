@@ -7,17 +7,17 @@ import CarroselNum from "../Components/CarroselNum";
 import { Link } from "react-router-dom";
 
 //Imagens
-import st from "../Imagens/stranger.jpg";
-import peak from "../Imagens/peak.jpg";
-import suits from "../Imagens/suitscapa.webp";
+import st from "../Imagens/resgate.icon.jpg";
+import peak from "../Imagens/flashi.jpg";
+import suits from "../Imagens/rick.webp";
 import umbrella from "../Imagens/theumbrella.jpg";
-import kingdom from "../Imagens/theking.jpg";
+import kingdom from "../Imagens/naruto.jpg";
 import lupin from "../Imagens/lupin.jpg";
 import round from "../Imagens/round.jpg";
 import lacasa from "../Imagens/lacasapapel.jpeg";
-import ragnarok from "../Imagens/ragnarok.jpg";
+import ragnarok from "../Imagens/theory.avif";
 import prisao from "../Imagens/prisao.webp"
-import narcos from "../Imagens/narcos.jpeg"
+import narcos from "../Imagens/dark.jpg"
 import vadia from "../Imagens/vadia.jpg"
 
 //--------------------
